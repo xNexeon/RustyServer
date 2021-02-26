@@ -1,0 +1,1 @@
+java -Xmx10240M -Xms10240M -jar spigot-1.16.5.jar nogui
